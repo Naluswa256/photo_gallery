@@ -2,7 +2,7 @@
 
 This is a Flutter project for an immersive interactive gallery mobile application implementing the Clean Architecture pattern.
 ## Preview
-![GIF Demo](path/to/your/demo.gif)
+![GIF Demo](./screenshots/preview.gif)
 ## Overview
 
 The project is structured with Clean Architecture, where:
